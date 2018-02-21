@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Techno-Activism 3rd Monday
 
-You can use the [editor on GitHub](https://github.com/TA3m-Seattle/Ta3m-Seattle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Techno-Activism Third Mondays (TA3M) is an informal meetup designed to connect software creators and activists who are interested in censorship, surveillance, and open technology. Currently, TA3M are held in various cities throughout the world, with many more launching in the near future.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TA3M is explicitly informal and open. You are invited to hack the process, ask questions, and be critical. You are very welcome to join in if you have something you want to share or discuss.
 
-### Markdown
+Seattle has one of the longest running [ta3m](https://seattleprivacy.org/ta3m/) chapters, operating since 2013.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact / Join
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TA3m-Seattle/Ta3m-Seattle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please join our low traffic [announcement](https://lists.riseup.net/www/info/ta3m-seattle-announce) mailing list, or participate in our [discussion](https://lists.riseup.net/www/info/ta3m-seattle-discuss) mailing list.
