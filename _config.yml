@@ -1,8 +1,6 @@
-title: "Seattle Techno-Activism 3rd Monday"
-baseurl: ""
-permalink: /:categories/:year/:month/:day/:title
+theme: jekyll-theme-midnight
 
-gems:
-  - jekyll-redirect-from
+title: Seattle Techno-Activism 3rd Monday
+description: Massive Monthly Meetups!
 
-source: ./
+show_downloads: false
