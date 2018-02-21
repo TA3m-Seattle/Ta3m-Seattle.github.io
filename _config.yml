@@ -1,1 +1,8 @@
-theme: jekyll-theme-slate
+title: "Seattle Techno-Activism 3rd Monday"
+baseurl: ""
+permalink: /:categories/:year/:month/:day/:title
+
+gems:
+  - jekyll-redirect-from
+
+source: ./
